@@ -8,8 +8,6 @@ Created on Thu Aug  9 23:17:06 2018
 import time
 from selenium import webdriver
 
-
-
 class SignUp(object):
     
     def __init__(self, driver):
